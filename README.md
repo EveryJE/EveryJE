@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EveryJE
-- 👀 i use react,eact-native 
 
 <!---
 EveryJE/EveryJE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
